@@ -1,0 +1,52 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', 'sans-serif';
+    box-sizing: border-box;
+}
+
+#header{
+    width: 100%;
+    height: 100vh;
+    background-image: url(shiv_bg.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.heading{
+    padding: 25px 30px;
+}
+.logo li{
+    display: inline-block;
+    color: green;
+    padding-top: 10px;
+}
+
+.first{
+    font-size: 54px;
+}
+.sec{
+    font-size: 30px;
+}
+
+.sidemenu li{
+    display: inline-block;
+    padding: 0px 12px;
+}
+.sidemenu li a{
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.container img{
+    padding-right: 2px;
+    border-radius: 20px;
+    height: 550px;
+    width: 500px;
+}
+
+.container p{
+    padding-top: 400px;
+    padding-left: 200px;
+    color: white;
+    font-size: 50px;
+}
